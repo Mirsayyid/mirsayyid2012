@@ -11,12 +11,14 @@
 .navbar {
     width: 100%;
     height: 80px;
+
     background-color: black;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-left: 40px;
     padding-right: 40px;
+    /* margin */
 }
 
 .nav-center {
